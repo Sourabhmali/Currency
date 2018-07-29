@@ -6,6 +6,7 @@ class currency
 {
 	BufferedImage currency=null;
 	File f=null;
+	int a;
 	BufferedImage cropped=null;
 		
 	public static void main(String args[])
